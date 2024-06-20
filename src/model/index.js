@@ -1,0 +1,6 @@
+module.exports.People = require("./people.model")
+module.exports.Event = require("./event.model")
+module.exports.Product = require("./product.model")
+module.exports.Recipe = require("./recipe.model")
+module.exports.Restaurant = require("./restaurant.model")
+module.exports.User = require("./user.model")

@@ -1,0 +1,6 @@
+module.exports.people_Service = require("./people.services")
+module.exports.event_Service = require("./event.services")
+module.exports.product_Service = require("./product.services")
+module.exports.recipe_Service = require("./recipe.services")
+module.exports.restaurant_Service = require("./restaurant.services")
+module.exports.user_Service = require("./user.services")

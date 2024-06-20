@@ -1,0 +1,6 @@
+module.exports.people_Controller = require("./people.controller")
+module.exports.event_Controller = require("./event.controller")
+module.exports.product_Controller = require("./product.controller")
+module.exports.recipe_Controller = require("./recipe.controller")
+module.exports.restautant_Controller = require("./restaurant.controller")
+module.exports.user_Controller = require("./user.controller")
